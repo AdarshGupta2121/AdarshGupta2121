@@ -14,7 +14,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-👋 Hey, I am Adarsh Gupta
+# 👋 Hi, I’m Adarsh Gupta  
+
+### 💻 Computer Science Undergraduate @ Delhi Technological University  
+### 🚀 MERN Stack Developer | DSA Enthusiast | Problem Solver  
+
+---
+
+📍 Delhi, India  
+🎓 B.Tech CSE (2022–2026) | CGPA: 7.82  
 
 A Computer Science undergraduate at Delhi Technological University with a strong foundation in Data Structures & Algorithms and a growing passion for full-stack web development. I enjoy building scalable, user-centric applications using the MERN stack and solving complex problems through efficient code.
 
